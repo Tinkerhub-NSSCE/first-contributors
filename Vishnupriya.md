@@ -14,10 +14,10 @@ first-contributors/chaitanya-liz.md
 
 * Add the following details
 ```sh
-Name : 
-GitHub Username: 
-Place : 
-Bio :
+Name : Vishnupriya
+GitHub Username: Vishnupriya-E-R
+Place : Thrissur
+Bio :I make and break system
 ```
 Example:
 ```sh
