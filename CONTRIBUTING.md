@@ -1,103 +1,37 @@
 # How can you contribute?
 
-To know about hacktoberfest [click here](https://hacktoberfest.com/)
+* Create a file by clicking on the 'Create a new file' button near to the 'Code' button 
 
-## Requirements
-
-- [A GitHub Account](https://GitHub.com)
-- [Git installed in your system](https://docs.GitHub.com/en/get-started/quickstart/set-up-git)
-- [Hacktoberfest Account](https://hacktoberfest.com)
-
-**Note:** If you want to be a part of hackctoberfest [complete registration and authorization](https://hacktoberfest.com/register/) before your pull request.
-
----
-
-## Step 1 - Fork this repository
-
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
-
-## Step 2 - Clone the forked repository
-
-Now clone the forked repository to your machine:
-
-- Using HTTPS
-
+* Change the file name in 
 ```sh
-git clone "https://github.com/<your-username>/first-contributors"
+first-contributors/your-name.md
 ```
 
-- Using SSH
-
+Example:
 ```sh
-git clone "git@github.com:<your-username>/first-contributors.git"
+first-contributors/chaitanya-liz.md
 ```
 
-**Note**: Replace <yout-username> with your GitHub username.
-
-> access and write data in repositories on GitHub.com using SSH (Secure Shell Protocol). When you connect via SSH, you authenticate using a private key file on your local machine.
-
-[Generate a SSH Key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-
-## Step 3 - Create a branch
-
-Change the current working directory to the cloned repo.
-For example:
-
+* Add the following details
 ```sh
-cd first-contributors
+Name : 
+GitHub Username: 
+Place : 
+Bio :
 ```
-
-Now create a new branch with the below naming convention:
-
+Example:
 ```sh
-git switch -c add-your-name
+Name : Chaitanya Liz
+GitHub Username: CLiz17
+Place : Palakkad
+Bio : I make and break system
+
 ```
+* After adding the details scroll down to commit the changes. Add a proper Commit message and click 'Commit Changes'
 
-For example:
-
-```sh
-git switch -c chaitanya-liz
-```
-
-## Step 4 - Make changes and commit
-
-Now if you go to the project directory and enter the command `git status`, you can see the changes.
-
-Add those changes with the `git add` command:
-
-```sh
-git add -A
-```
-
-Now commit those changes using the `git commit` command:
-
-```sh
-git commit -m "Add <your-name> to contributors list"
-```
-
-For example:
-
-```sh
-git commit -m "Add chaitanya-liz to contributors list"
-```
-
-## Step 5 - Push the changes to GitHub
-
-Push your changes to GitHub using the `git push` command:
-
-```sh
-git push -u origin <your-branch-name>
-```
-
-For example:
-
-```sh
-git push -u origin chaitanya-liz
-```
-
-## Step 6 - Submit your changes for review
-
-If you go to your repository page on GitHub you will see a `compare & pull request` button. Click that button.
-And submit the pull request.
-Soon the reviewer will merge the branch into `main`.
+* Go to Pull Request tab on top right and click on `compare & pull request` button to submit a request to the Main Codebase 
+``
+https://github.com/Tinkerhub-NSSCE/first-contributors
+``
+the changes you have made to this repository.
+* Soon the reviewer will merge the branch into `main`.
