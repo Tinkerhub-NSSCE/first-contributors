@@ -27,6 +27,9 @@ Place : Palakkad
 Bio : I make and break system
 
 ```
+
+Refer `sample.md` for reference
+
 * After adding the details scroll down to commit the changes. Add a proper Commit message and click 'Commit Changes'
 
 * Go to Pull Request tab on top right and click on `compare & pull request` button to submit a request to the Main Codebase 
@@ -34,4 +37,4 @@ Bio : I make and break system
 https://github.com/Tinkerhub-NSSCE/first-contributors
 ``
 the changes you have made to this repository.
-* Soon the reviewer will merge the branch into `main`.
+* Soon the reviewer will merge the branch into `main`
